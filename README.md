@@ -2,7 +2,7 @@
 
 We use the kaggle dataset 'Insurance Premium Data' https://www.kaggle.com/datasets/simranjain17/insurance to predict health insurance premiums.
 
-###Approach to solve the problem:
+### Approach to solve the problem:
 
 1. Import the necessary libraries
 2. Read the dataset and get an overview
